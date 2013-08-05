@@ -1,1 +1,2 @@
-lemonwisard was here
+#!/usr/bin/env python
+print("lemonwisard was here")
